@@ -50,5 +50,3 @@ Created by **R K VANSIKA** as a simple Python GUI project.
 
 ---
 
-Would you like me to make a **very short “About” line (one sentence)** for the GitHub repo header too? (e.g., the small text below your repo name).
-
